@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work,Adding some text to get the before rebase
+This repository is for showing how Git and GitHub work,Adding some text to get the before rebase,for more changes from myfeature branch too
 
 ## Purpose
 
